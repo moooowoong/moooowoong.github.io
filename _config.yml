@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Hugh Kim"
-  avatar           : "/assets/images/profile.jpg"
+  avatar           : "./assets/images/profile.jpg"
   bio              : ":-)"
   location         : "South Korea"
   email            : "moooowoong@gmail.com"
